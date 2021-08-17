@@ -8,6 +8,9 @@ Autores:
         Gutiérrez Silvestre Griselda
         Mayen Palmillas Marco Antonio
         Santillan Garcia Josue 
+        
+        MIT license       
+        
 """
 
 #Módulopara el control y reproducción de audios 
