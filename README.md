@@ -1,8 +1,6 @@
 Proyecto final de la asignatura de Fundamentos de Sistemas Embebidos
 Centro Multimedia
-Autores: Gutiérrez Silvestre Griselda
-         Mayen Palmillas Marco Antonio
-         Santillan Garcia Josue 
+Autores: Gutiérrez Silvestre Griselda, Mayen Palmillas Marco Antonio y Santillan Garcia Josue 
 
 Pasos para la ejecución:
     1.  Instalación del navegador Mozilla Firefox.
